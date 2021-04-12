@@ -1,0 +1,21 @@
+{
+  "name": "porfolio.database",
+  "version": "1.0.0",
+  "description": "A NoSQL document oriented database for my porfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nosql",
+    "document",
+    "oriented",
+    "database"
+  ],
+  "author": "Cris Cirhuza",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}

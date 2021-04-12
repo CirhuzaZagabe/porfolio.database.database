@@ -1,0 +1,104 @@
+{
+    "welcome_screen": {
+        "hero_img_src": "img/git_profile.jpeg",
+        "hero_text": "Nous vivons dans un monde aux problèmes multiples et divers, mais le plus grand de nos problèmes est notre <br> incapacité de nous organiser pour optimiser les efforts que nous fournissons. Créons donc des outils qui nous aideront à nous organiser et bien optimiser nos <br> moyens. Créons ces outils qui nous facilitent la vie, ces logiciels et applications qui optimisent au maximum près nos efforts et moyens et observons la hausse de notre produvtivité.",
+        "hero_slides": [
+            "img/git_profile.jpeg", 
+            "img/screen.png", 
+            "img/git_profile.jpeg",
+            "img/screen.png"
+        ]
+    },
+
+    "projects_screen": {
+        "project_text": "Oui j'en ai fait mon met parfait de tous les jours. Je travaille sur plusieurs projets tellement qu'il y a des problèmes dans notre société! <br>J'ai eu à finir certains et d'autres sont en cours. N'hesitez pas à apprecier le code juste en suivant les liens correspondants. <br>Si que vous êtes intéressé par un ou plusieurs de mes projets et que vous êtes développeur ou bailleur des fonds",
+        "projects": [
+            {
+                "name": "Lorem Ipsum",
+                "privacy": true,
+                "duration": 120,
+                "tecnologies": ["Mongo db", "Express", "React", "NodeJs"],
+                "executed": false
+            },
+            {
+                "name": "Lorem Ipsum",
+                "privacy": true,
+                "duration": 120,
+                "tecnologies": ["Mongo db", "Express", "React", "NodeJs"],
+                "executed": false
+            },
+            {
+                "name": "Lorem Ipsum",
+                "privacy": true,
+                "duration": 120,
+                "tecnologies": ["Mongo db", "Express", "React", "NodeJs"],
+                "executed": false
+            }
+        ],
+        "urgent_call_text": "Vous êtes dans l'urgence d'un travail, un projet urgent ? Maintenant ne tardez pas à le faire savoir à ma manager et j'interviendrai dans les plus brefs delais. <br> Que c'est soit un projet de site web, application web ou application mobile; je vous aiderai à l'avoir justement comme vous l'immaginez. Contacter maintenant donc ma manager"
+    },
+
+    "competences_screen": {
+        "competences_text": "Je suis, disons que je suis de nature quelque part comme une machine à apprendre; et pour moi, mes compétences constituent mon premier critère de mon évolution et progrès. <br>Et c'est donc comme ça que je me sens et qu'on témoigne que je suis compétent <br>dans plusieurs domaines du numérique et spécialement des applications et logiciels.",
+        "competences_list": [
+            {
+                "src": "img/screen.png",
+                "comp_title": "BLOCCHAIN",
+                "text": "Je suis actif dans les FinTech et principalement dans la blockchain. Les applications sont multiples et les besoins aussi. Actuellement Les cryptomonaies defrayent la chronique et j'ai choisi oeuvrer dans ce domaine dans des projets que j'ai en rapport avec la finance."
+            },
+            {
+                "src": "img/screen.png",
+                "comp_title": "BLOCCHAIN",
+                "text": "Je suis actif dans les FinTech et principalement dans la blockchain. Les applications sont multiples et les besoins aussi. Actuellement Les cryptomonaies defrayent la chronique et j'ai choisi oeuvrer dans ce domaine dans des projets que j'ai en rapport avec la finance."
+            },
+            {
+                "src": "img/screen.png",
+                "comp_title": "BLOCCHAIN",
+                "text": "Je suis actif dans les FinTech et principalement dans la blockchain. Les applications sont multiples et les besoins aussi. Actuellement Les cryptomonaies defrayent la chronique et j'ai choisi oeuvrer dans ce domaine dans des projets que j'ai en rapport avec la finance."
+            }
+        ],
+        "more_info": "Toutes ces competences m'ont permi de developper des applications et logiciels que vous pouvez voir en vaviguant dans le menu projet. <br>Si vous trouvez certaines competences qui sont de besoin pour l'eéecution de votre projet, n'hesitez pas à soumettre votre projet."
+    },
+    "about_screen": {
+        "profile_src": "img/git_profile.jpeg",
+        "intro_text": "Salut les amis</span>, <br> Je suis Crispin CIRHUZA ZAGABE; développeur web-mobile et desktop FullStack. Naturellement je suis passionné par le numérique et j'oeuvre dans le domaine de développement des applications informatiques et logiciels. Mon ardent désir c'est de travailler avec vous, sur vos différents projet et vous offrir une expérience jamais vécu avec mes services, en l'ocurrence le developpement des ces logiciels et/ou application que vous désirez intégrer dans votre business ou chez vous. Si cela vous tente, me soumettre votre projet, n'hesitez pas à contacter ma manager maintenant.",
+        "method_bloc_intro_text": "Je travaille bien et à l'aise en groupe et seul. Dans le travail, j'ai une allure tout à fait professionnelle et donc j'utilise des méthodes standard de gestion administrative et technique de mes projets logiciels.",
+        "work_method_list": [
+            {
+                "title": "Méthodes agiles (SCRUM et KANBAN)",
+                "icon_name": "construction",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ducimus at distinctio facere deserunt. Ea excepturi nulla accusantium natus. Illum id quidem cum voluptas quisquam, maiores eius facere voluptatibus tempora!"
+            },
+            {
+                "title": "Méthodes agiles (SCRUM et KANBAN)",
+                "icon_name": "construction",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ducimus at distinctio facere deserunt. Ea excepturi nulla accusantium natus. Illum id quidem cum voluptas quisquam, maiores eius facere voluptatibus tempora!"
+            },
+            {
+                "title": "Méthodes agiles (SCRUM et KANBAN)",
+                "icon_name": "construction",
+                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati ducimus at distinctio facere deserunt. Ea excepturi nulla accusantium natus. Illum id quidem cum voluptas quisquam, maiores eius facere voluptatibus tempora!"
+            }
+        ],
+        "tech_management_tools": [
+            {
+                "img_src": "img/screen.png",
+                "action_text": "Wikipedia",
+                "title": "ARGO UML",
+                "hidden_content": "Here is some more information about this product that is only revealed once clicked on."
+            },
+            {
+                "img_src": "img/screen.png",
+                "action_text": "Wikipedia",
+                "title": "GIT",
+                "hidden_content": "Here is some more information about this product that is only revealed once clicked on."
+            }
+        ]
+    },
+    "footer_block": {
+        "footer_text": "Pour d' éventuels besoins de mon intervention au sein de votre groupe ou entreprise ou tout simplement chez vous;",
+        "contacts": ["+243 976 380 527"],
+        "address": "République Démocratique du Congo, Kinshasa, Commune Lemba, 7e Rue N<sup>o</sup>63"
+    }
+
+}
